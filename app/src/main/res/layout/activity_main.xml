@@ -68,7 +68,7 @@
             android:gravity="center"
             android:button="@null"
             android:textSize="21dp"
-            android:text="我的" />
+            android:text="我的11111111111111111111111111111111111111111111111111111111111111111" />
 
     </RadioGroup>
 
